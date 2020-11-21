@@ -15,10 +15,7 @@ class StateCensusAnalyser:
         :param csv_file_path: the path of the csv file given by user
         :if it is not a csv file, this will raise an error
         """
-        FILE_PATTERN = '.*.csv$'
-        pattern = re.compile(FILE_PATTERN)
-        match = pattern.search(csv_file_path)
-        if not match:
+        if not csv_file_path.endswith(".csv"):
             logging.error(' Exception occurred due to wrong file extension', exc_info=True)
             raise WrongExtensionCSVFile(' Please correct extension file')
 
