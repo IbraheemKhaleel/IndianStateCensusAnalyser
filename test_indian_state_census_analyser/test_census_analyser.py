@@ -3,7 +3,7 @@ import pytest
 from main_census_analyser.census_analyser_exception import WrongFilePathError, WrongExtensionCSVFile
 
 INDIA_STATE_CENSUS_PATH = 'C:/Users/Ibrahim Khaleel/PycharmProjects/IndianStateCensusAnalyser/test_indian_state_census_analyser/IndiaStateCensusData.csv'
-WRONG_CSV_PATH = 'C:/Users/Ibrahim Khaleel/PycharmProjects/test_indian_state_census_analyser/IndiaStateCensusData.csv'
+WRONG_CSV_PATH =  'C:/Users/Ibrahim Khaleel/PycharmProjects/test_indian_state_census_analyser/IndiaStateCensusData.csv'
 WRONG_FILE_EXTENSION = 'C:/Users/Ibrahim Khaleel/PycharmProjects/IndianStateCensusAnalyser/test_indian_state_census_analyser/IndiaStateCensusData.json'
 
 
