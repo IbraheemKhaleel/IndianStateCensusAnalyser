@@ -19,7 +19,7 @@ class StateCensusAnalyser:
         pattern = re.compile(FILE_PATTERN)
         match = pattern.search(csv_file_path)
         if not match:
-            logging.error('Exception occurred due to wrong file extension', exc_info=True)
+            logging.error(' Exception occurred due to wrong file extension', exc_info=True)
             raise WrongExtensionCSVFile(' Please correct extension file')
 
     def load_census_data(self, file_name_path):
