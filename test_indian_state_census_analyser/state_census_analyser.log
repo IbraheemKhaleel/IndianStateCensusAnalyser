@@ -1,0 +1,30 @@
+root | DEBUG | 2020-11-21 09:43:53,552 | Number of entries 29
+root | ERROR | 2020-11-21 09:43:53,558 | Exception occurred due to wrong file path
+Traceback (most recent call last):
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 32, in load_census_data
+    with open(file_name_path, 'r') as data:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:/Users/Ibrahim Khaleel/PycharmProjects/test_indian_state_census_analyser/IndiaStateCensusData.csv'
+root | ERROR | 2020-11-21 09:43:53,564 | Exception occurred due to wrong file path
+NoneType: None
+root | DEBUG | 2020-11-21 09:43:53,599 | Number of entries 67
+root | DEBUG | 2020-11-21 09:44:42,564 | Number of entries 29
+root | DEBUG | 2020-11-21 09:44:44,029 | Number of entries 29
+root | ERROR | 2020-11-21 09:44:47,183 | Exception occurred due to wrong file path
+Traceback (most recent call last):
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 32, in load_census_data
+    with open(file_name_path, 'r') as data:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:/Users/Ibrahim Khaleel/PycharmProjects/test_indian_state_census_analyser/IndiaStateCensusData.csv'
+root | ERROR | 2020-11-21 09:44:51,438 | Exception occurred due to wrong file path
+NoneType: None
+root | DEBUG | 2020-11-21 09:44:54,378 | Number of entries 37
+root | ERROR | 2020-11-21 09:47:05,386 | Exception occurred due to wrong file extension
+NoneType: None
+root | DEBUG | 2020-11-21 09:47:51,452 | Number of entries 37
+root | DEBUG | 2020-11-21 10:31:00,396 | Number of entries 29
+root | ERROR | 2020-11-21 10:31:00,400 | Exception occurred due to wrong file path
+Traceback (most recent call last):
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 32, in load_census_data
+    with open(file_name_path, 'r') as data:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:/Users/Ibrahim Khaleel/PycharmProjects/test_indian_state_census_analyser/IndiaStateCensusData.csv'
+root | ERROR | 2020-11-21 10:31:00,407 | Exception occurred due to wrong file extension
+NoneType: None
