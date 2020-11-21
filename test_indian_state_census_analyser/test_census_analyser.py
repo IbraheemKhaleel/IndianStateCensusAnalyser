@@ -20,6 +20,3 @@ def test_wrong_filepath_when_analysed_should_raise_errors(instance_of_main_class
 def test_wrong_file_extension_when_analysed_should_raise_errors(instance_of_main_class):
     with pytest.raises(WrongExtensionCSVFile):
         instance_of_main_class.load_census_data(WRONG_FILE_EXTENSION)
-
-
-
