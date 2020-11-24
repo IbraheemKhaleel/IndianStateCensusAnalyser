@@ -49,3 +49,636 @@ Traceback (most recent call last):
     with open(file_name_path, 'r') as data:
 FileNotFoundError: [Errno 2] No such file or directory: 'C:/Users/Ibrahim Khaleel/PycharmProjects/IndianStateCensusAnalyser/IndiaStateCode.csv'
 root | DEBUG | 2020-11-21 10:58:35,152 | Number of entries 37
+root | DEBUG | 2020-11-21 11:04:59,505 | Number of entries 29
+root | DEBUG | 2020-11-21 11:05:03,229 | Number of entries 29
+root | ERROR | 2020-11-21 11:05:03,233 | Exception occurred due to wrong file path
+Traceback (most recent call last):
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 29, in load_census_data
+    with open(file_name_path, 'r') as data:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:/Users/Ibrahim Khaleel/PycharmProjects/test_indian_state_census_analyser/IndiaStateCensusData.csv'
+root | ERROR | 2020-11-21 11:05:03,237 |  Exception occurred due to wrong file extension
+NoneType: None
+root | DEBUG | 2020-11-21 11:05:03,241 | Number of entries 67
+root | ERROR | 2020-11-21 11:05:03,338 | Exception occurred due to wrong file path
+Traceback (most recent call last):
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 29, in load_census_data
+    with open(file_name_path, 'r') as data:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:/Users/Ibrahim Khaleel/PycharmProjects/IndianStateCensusAnalyser/IndiaStateCode.csv'
+root | ERROR | 2020-11-21 11:05:03,341 |  Exception occurred due to wrong file extension
+NoneType: None
+root | DEBUG | 2020-11-21 11:05:26,139 | Number of entries 37
+root | DEBUG | 2020-11-21 11:05:37,740 | Number of entries 37
+root | DEBUG | 2020-11-21 12:26:16,749 | Number of entries 29
+root | ERROR | 2020-11-21 12:26:16,749 | Exception occurred due to wrong file path
+Traceback (most recent call last):
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 29, in load_census_data
+    with open(file_name_path, 'r') as data:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:/Users/Ibrahim Khaleel/PycharmProjects/test_indian_state_census_analyser/IndiaStateCensusData.csv'
+root | ERROR | 2020-11-21 12:26:16,749 |  Exception occurred due to wrong file extension
+NoneType: None
+root | DEBUG | 2020-11-21 12:26:16,749 | Number of entries 67
+root | ERROR | 2020-11-21 12:26:16,889 | Exception occurred due to wrong file path
+Traceback (most recent call last):
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 29, in load_census_data
+    with open(file_name_path, 'r') as data:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:/Users/Ibrahim Khaleel/PycharmProjects/IndianStateCensusAnalyser/IndiaStateCode.csv'
+root | ERROR | 2020-11-21 12:26:16,889 |  Exception occurred due to wrong file extension
+NoneType: None
+root | DEBUG | 2020-11-21 12:26:25,462 | Number of entries 29
+root | ERROR | 2020-11-21 12:26:25,462 | Exception occurred due to wrong file path
+Traceback (most recent call last):
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 29, in load_census_data
+    with open(file_name_path, 'r') as data:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:/Users/Ibrahim Khaleel/PycharmProjects/test_indian_state_census_analyser/IndiaStateCensusData.csv'
+root | ERROR | 2020-11-21 12:26:25,462 |  Exception occurred due to wrong file extension
+NoneType: None
+root | DEBUG | 2020-11-21 12:26:25,462 | Number of entries 67
+root | ERROR | 2020-11-21 12:26:25,556 | Exception occurred due to wrong file path
+Traceback (most recent call last):
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 29, in load_census_data
+    with open(file_name_path, 'r') as data:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:/Users/Ibrahim Khaleel/PycharmProjects/IndianStateCensusAnalyser/IndiaStateCode.csv'
+root | ERROR | 2020-11-21 12:26:25,556 |  Exception occurred due to wrong file extension
+NoneType: None
+root | DEBUG | 2020-11-21 12:26:43,414 | Number of entries 37
+root | ERROR | 2020-11-21 12:27:23,174 |  Exception occurred due to wrong file extension
+NoneType: None
+root | ERROR | 2020-11-21 12:27:38,380 | Exception occurred due to wrong file path
+Traceback (most recent call last):
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 29, in load_census_data
+    with open(file_name_path, 'r') as data:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:/Users/Ibrahim Khaleel/PycharmProjects/IndianStateCensusAnalyser/IndiaStateCode.csv'
+root | ERROR | 2020-11-21 12:28:30,689 | Exception occurred due to wrong file path
+Traceback (most recent call last):
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 29, in load_census_data
+    with open(file_name_path, 'r') as data:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:/Users/Ibrahim Khaleel/PycharmProjects/IndianStateCensusAnalyser/IndiaStateCode.csv'
+root | DEBUG | 2020-11-23 10:33:49,502 | Number of entries 29
+root | DEBUG | 2020-11-23 10:37:35,271 | Number of entries 29
+root | ERROR | 2020-11-23 10:37:35,276 | Exception occurred due to wrong file path
+Traceback (most recent call last):
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 28, in load_census_data
+    with open(file_name_path, 'r') as data:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:/Users/Ibrahim Khaleel/PycharmProjects/test_indian_state_census_analyser/IndiaStateCensusData.csv'
+root | ERROR | 2020-11-23 10:37:35,281 |  Exception occurred due to wrong file extension
+NoneType: None
+root | DEBUG | 2020-11-23 10:37:35,329 | Number of entries 67
+root | ERROR | 2020-11-23 10:37:35,449 | Exception occurred due to wrong file path
+Traceback (most recent call last):
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 28, in load_census_data
+    with open(file_name_path, 'r') as data:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:/Users/Ibrahim Khaleel/PycharmProjects/IndianStateCensusAnalyser/IndiaStateCode.csv'
+root | ERROR | 2020-11-23 10:37:35,452 |  Exception occurred due to wrong file extension
+NoneType: None
+root | DEBUG | 2020-11-23 10:37:59,058 | Number of entries 37
+root | DEBUG | 2020-11-23 10:38:06,630 | Number of entries 37
+root | DEBUG | 2020-11-23 10:38:09,950 | Number of entries 37
+root | DEBUG | 2020-11-23 10:38:13,246 | Number of entries 37
+root | DEBUG | 2020-11-23 10:38:16,178 | Number of entries 37
+root | DEBUG | 2020-11-23 10:38:19,124 | Number of entries 37
+root | ERROR | 2020-11-23 10:38:22,313 |  Exception occurred due to wrong file extension
+NoneType: None
+root | ERROR | 2020-11-23 10:38:25,438 | Exception occurred due to wrong file path
+Traceback (most recent call last):
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 28, in load_census_data
+    with open(file_name_path, 'r') as data:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:/Users/Ibrahim Khaleel/PycharmProjects/test_indian_state_census_analyser/IndiaStateCensusData.csv'
+root | DEBUG | 2020-11-23 10:38:29,208 | Number of entries 37
+root | DEBUG | 2020-11-23 10:41:21,141 | Number of entries 29
+root | DEBUG | 2020-11-23 10:41:24,999 | Number of entries 37
+root | ERROR | 2020-11-23 10:42:00,550 | Exception occurred due to wrong file path
+Traceback (most recent call last):
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 29, in load_census_data
+    with open(file_name_path, 'r') as data:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:/Users/Ibrahim Khaleel/PycharmProjects/test_indian_state_census_analyser/IndiaStateCensusData.csv'
+root | ERROR | 2020-11-23 10:42:00,556 |  Exception occurred due to wrong file extension
+NoneType: None
+root | ERROR | 2020-11-23 10:42:00,573 | Exception occurred due to wrong file path
+Traceback (most recent call last):
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 29, in load_census_data
+    with open(file_name_path, 'r') as data:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:/Users/Ibrahim Khaleel/PycharmProjects/IndianStateCensusAnalyser/IndiaStateCode.csv'
+root | ERROR | 2020-11-23 10:42:00,579 |  Exception occurred due to wrong file extension
+NoneType: None
+root | DEBUG | 2020-11-23 10:42:53,714 | Number of entries 29
+root | ERROR | 2020-11-23 10:42:53,719 | Exception occurred due to wrong file path
+Traceback (most recent call last):
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 29, in load_census_data
+    with open(file_name_path, 'r') as data:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:/Users/Ibrahim Khaleel/PycharmProjects/test_indian_state_census_analyser/IndiaStateCensusData.csv'
+root | ERROR | 2020-11-23 10:42:53,727 |  Exception occurred due to wrong file extension
+NoneType: None
+root | DEBUG | 2020-11-23 10:42:53,730 | Number of entries 37
+root | ERROR | 2020-11-23 10:42:53,737 | Exception occurred due to wrong file path
+Traceback (most recent call last):
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 29, in load_census_data
+    with open(file_name_path, 'r') as data:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:/Users/Ibrahim Khaleel/PycharmProjects/IndianStateCensusAnalyser/IndiaStateCode.csv'
+root | ERROR | 2020-11-23 10:42:53,741 |  Exception occurred due to wrong file extension
+NoneType: None
+root | DEBUG | 2020-11-23 10:43:03,269 | Number of entries 37
+root | DEBUG | 2020-11-24 06:31:49,327 | Number of entries 29
+root | ERROR | 2020-11-24 06:31:49,327 | Exception occurred due to wrong file path
+Traceback (most recent call last):
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 29, in load_census_data
+    with open(file_name_path, 'r') as data:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:/Users/Ibrahim Khaleel/PycharmProjects/test_indian_state_census_analyser/IndiaStateCensusData.csv'
+root | ERROR | 2020-11-24 06:31:49,327 |  Exception occurred due to wrong file extension
+NoneType: None
+root | DEBUG | 2020-11-24 06:31:49,342 | Number of entries 37
+root | ERROR | 2020-11-24 06:31:49,358 | Exception occurred due to wrong file path
+Traceback (most recent call last):
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 29, in load_census_data
+    with open(file_name_path, 'r') as data:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:/Users/Ibrahim Khaleel/PycharmProjects/IndianStateCensusAnalyser/IndiaStateCode.csv'
+root | ERROR | 2020-11-24 06:31:49,358 |  Exception occurred due to wrong file extension
+NoneType: None
+root | ERROR | 2020-11-24 06:32:04,796 | Exception occurred due to wrong file path
+Traceback (most recent call last):
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 29, in load_census_data
+    with open(file_name_path, 'r') as data:
+FileNotFoundError: [Errno 2] No such file or directory: '/IndianStateCensusAnalyser/test_indian_state_census_analyser/IndiaStateCensusData.csv'
+root | ERROR | 2020-11-24 06:32:22,858 | Exception occurred due to wrong file path
+Traceback (most recent call last):
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 29, in load_census_data
+    with open(file_name_path, 'r') as data:
+FileNotFoundError: [Errno 2] No such file or directory: 'IndianStateCensusAnalyser/test_indian_state_census_analyser/IndiaStateCensusData.csv'
+root | ERROR | 2020-11-24 06:39:21,028 | Exception occurred due to wrong file path
+Traceback (most recent call last):
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 29, in load_census_data
+    with open(file_name_path, 'r') as data:
+FileNotFoundError: [Errno 2] No such file or directory: '../IndianStateCensusAnalyser/test_indian_state_census_analyser/IndiaStateCensusData.csv'
+root | DEBUG | 2020-11-24 06:39:21,128 | Number of entries 29
+root | ERROR | 2020-11-24 06:39:21,146 |  Exception occurred due to wrong file extension
+NoneType: None
+root | ERROR | 2020-11-24 06:39:21,149 | Exception occurred due to wrong file path
+Traceback (most recent call last):
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 29, in load_census_data
+    with open(file_name_path, 'r') as data:
+FileNotFoundError: [Errno 2] No such file or directory: '../IndianStateCensusAnalyser/test_indian_state_census_analyser/IndiaStateCode.csv'
+root | ERROR | 2020-11-24 06:39:21,161 | Exception occurred due to wrong file path
+Traceback (most recent call last):
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 29, in load_census_data
+    with open(file_name_path, 'r') as data:
+FileNotFoundError: [Errno 2] No such file or directory: '../IndianStateCensusAnalyser/IndiaStateCode.csv'
+root | ERROR | 2020-11-24 06:39:21,165 |  Exception occurred due to wrong file extension
+NoneType: None
+root | DEBUG | 2020-11-24 06:39:40,223 | Number of entries 29
+root | ERROR | 2020-11-24 06:40:14,116 | Exception occurred due to wrong file path
+Traceback (most recent call last):
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 29, in load_census_data
+    with open(file_name_path, 'r') as data:
+FileNotFoundError: [Errno 2] No such file or directory: '../wrong_path/test_indian_state_census_analyser/IndiaStateCensusData.csv'
+root | ERROR | 2020-11-24 06:40:32,033 |  Exception occurred due to wrong file extension
+NoneType: None
+root | ERROR | 2020-11-24 06:41:37,779 |  Exception occurred due to wrong file extension
+NoneType: None
+root | ERROR | 2020-11-24 06:41:46,254 | Exception occurred due to wrong file path
+Traceback (most recent call last):
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 29, in load_census_data
+    with open(file_name_path, 'r') as data:
+FileNotFoundError: [Errno 2] No such file or directory: '../IndianStateCensusAnalyser/IndiaStateCode.csv'
+root | ERROR | 2020-11-24 06:41:52,220 | Exception occurred due to wrong file path
+Traceback (most recent call last):
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 29, in load_census_data
+    with open(file_name_path, 'r') as data:
+FileNotFoundError: [Errno 2] No such file or directory: '../IndianStateCensusAnalyser/test_indian_state_census_analyser/IndiaStateCensusData.csv'
+root | ERROR | 2020-11-24 06:41:52,314 | Exception occurred due to wrong file path
+Traceback (most recent call last):
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 29, in load_census_data
+    with open(file_name_path, 'r') as data:
+FileNotFoundError: [Errno 2] No such file or directory: '../wrong_path/test_indian_state_census_analyser/IndiaStateCensusData.csv'
+root | ERROR | 2020-11-24 06:41:52,329 |  Exception occurred due to wrong file extension
+NoneType: None
+root | ERROR | 2020-11-24 06:41:52,329 | Exception occurred due to wrong file path
+Traceback (most recent call last):
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 29, in load_census_data
+    with open(file_name_path, 'r') as data:
+FileNotFoundError: [Errno 2] No such file or directory: '../IndianStateCensusAnalyser/test_indian_state_census_analyser/IndiaStateCode.csv'
+root | ERROR | 2020-11-24 06:41:52,345 | Exception occurred due to wrong file path
+Traceback (most recent call last):
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 29, in load_census_data
+    with open(file_name_path, 'r') as data:
+FileNotFoundError: [Errno 2] No such file or directory: '../IndianStateCensusAnalyser/IndiaStateCode.csv'
+root | ERROR | 2020-11-24 06:41:52,345 |  Exception occurred due to wrong file extension
+NoneType: None
+root | ERROR | 2020-11-24 06:44:36,511 | Exception occurred due to wrong file path
+Traceback (most recent call last):
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 29, in load_census_data
+    with open(file_name_path, 'r') as data:
+FileNotFoundError: [Errno 2] No such file or directory: '../IndianStateCensusAnalyser/test_indian_state_census_analyser/IndiaStateCensusData.csv'
+root | ERROR | 2020-11-24 06:44:36,620 | Exception occurred due to wrong file path
+Traceback (most recent call last):
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 29, in load_census_data
+    with open(file_name_path, 'r') as data:
+FileNotFoundError: [Errno 2] No such file or directory: '../wrong_path/test_indian_state_census_analyser/IndiaStateCensusData.csv'
+root | ERROR | 2020-11-24 06:44:36,620 |  Exception occurred due to wrong file extension
+NoneType: None
+root | ERROR | 2020-11-24 06:44:36,620 | Exception occurred due to wrong file path
+Traceback (most recent call last):
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 29, in load_census_data
+    with open(file_name_path, 'r') as data:
+FileNotFoundError: [Errno 2] No such file or directory: '../IndianStateCensusAnalyser/test_indian_state_census_analyser/IndiaStateCode.csv'
+root | ERROR | 2020-11-24 06:44:36,636 | Exception occurred due to wrong file path
+Traceback (most recent call last):
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 29, in load_census_data
+    with open(file_name_path, 'r') as data:
+FileNotFoundError: [Errno 2] No such file or directory: '../IndianStateCensusAnalyser/IndiaStateCode.csv'
+root | ERROR | 2020-11-24 06:44:36,636 |  Exception occurred due to wrong file extension
+NoneType: None
+root | ERROR | 2020-11-24 06:44:41,347 | Exception occurred due to wrong file path
+Traceback (most recent call last):
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 29, in load_census_data
+    with open(file_name_path, 'r') as data:
+FileNotFoundError: [Errno 2] No such file or directory: '../IndianStateCensusAnalyser/test_indian_state_census_analyser/IndiaStateCensusData.csv'
+root | ERROR | 2020-11-24 06:44:47,751 | Exception occurred due to wrong file path
+Traceback (most recent call last):
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 29, in load_census_data
+    with open(file_name_path, 'r') as data:
+FileNotFoundError: [Errno 2] No such file or directory: '../IndianStateCensusAnalyser/test_indian_state_census_analyser/IndiaStateCensusData.csv'
+root | ERROR | 2020-11-24 06:46:36,029 | Exception occurred due to wrong file path
+Traceback (most recent call last):
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 29, in load_census_data
+    with open(file_name_path, 'r') as data:
+FileNotFoundError: [Errno 2] No such file or directory: '../IndianStateCensusAnalyser/test_indian_state_census_analyser/IndiaStateCensusData.csv'
+root | ERROR | 2020-11-24 06:46:36,131 | Exception occurred due to wrong file path
+Traceback (most recent call last):
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 29, in load_census_data
+    with open(file_name_path, 'r') as data:
+FileNotFoundError: [Errno 2] No such file or directory: '../wrong_path/test_indian_state_census_analyser/IndiaStateCensusData.csv'
+root | ERROR | 2020-11-24 06:46:36,136 |  Exception occurred due to wrong file extension
+NoneType: None
+root | ERROR | 2020-11-24 06:46:36,139 | Exception occurred due to wrong file path
+Traceback (most recent call last):
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 29, in load_census_data
+    with open(file_name_path, 'r') as data:
+FileNotFoundError: [Errno 2] No such file or directory: '../IndianStateCensusAnalyser/test_indian_state_census_analyser/IndiaStateCode.csv'
+root | ERROR | 2020-11-24 06:46:36,150 | Exception occurred due to wrong file path
+Traceback (most recent call last):
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 29, in load_census_data
+    with open(file_name_path, 'r') as data:
+FileNotFoundError: [Errno 2] No such file or directory: '../IndianStateCensusAnalyser/IndiaStateCode.csv'
+root | ERROR | 2020-11-24 06:46:36,155 |  Exception occurred due to wrong file extension
+NoneType: None
+root | ERROR | 2020-11-24 06:56:21,223 | Exception occurred due to wrong file path
+Traceback (most recent call last):
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 29, in load_census_data
+    with open(file_name_path, 'r') as data:
+FileNotFoundError: [Errno 2] No such file or directory: '../IndianStateCensusAnalyser/test_indian_state_census_analyser/IndiaStateCensusData.csv'
+root | ERROR | 2020-11-24 06:57:02,205 | Exception occurred due to wrong file path
+Traceback (most recent call last):
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 29, in load_census_data
+    with open(file_name_path, 'r') as data:
+FileNotFoundError: [Errno 2] No such file or directory: '../IndianStateCensusAnalyser/test_indian_state_census_analyser/IndiaStateCode.csv'
+root | ERROR | 2020-11-24 06:57:54,807 | Exception occurred due to wrong file path
+Traceback (most recent call last):
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 29, in load_census_data
+    with open(file_name_path, 'r') as data:
+FileNotFoundError: [Errno 2] No such file or directory: '..\\IndianStateCensusAnalyser\\test_indian_state_census_analyser\\IndiaStateCensusData.csv'
+root | DEBUG | 2020-11-24 07:01:16,820 | Number of entries 29
+root | DEBUG | 2020-11-24 07:01:34,795 | Number of entries 37
+root | DEBUG | 2020-11-24 07:01:58,052 | Number of entries 29
+root | ERROR | 2020-11-24 07:01:58,057 | Exception occurred due to wrong file path
+Traceback (most recent call last):
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 29, in load_census_data
+    with open(file_name_path, 'r') as data:
+FileNotFoundError: [Errno 2] No such file or directory: '../wrong_path/test_indian_state_census_analyser/IndiaStateCensusData.csv'
+root | ERROR | 2020-11-24 07:01:58,060 |  Exception occurred due to wrong file extension
+NoneType: None
+root | DEBUG | 2020-11-24 07:01:58,065 | Number of entries 37
+root | ERROR | 2020-11-24 07:01:58,068 | Exception occurred due to wrong file path
+Traceback (most recent call last):
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 29, in load_census_data
+    with open(file_name_path, 'r') as data:
+FileNotFoundError: [Errno 2] No such file or directory: '../IndianStateCensusAnalyser/IndiaStateCode.csv'
+root | ERROR | 2020-11-24 07:01:58,071 |  Exception occurred due to wrong file extension
+NoneType: None
+root | DEBUG | 2020-11-24 07:13:47,345 | Number of entries 29
+root | ERROR | 2020-11-24 07:13:47,348 | Exception occurred due to wrong file path
+Traceback (most recent call last):
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 29, in load_census_data
+    with open(file_name_path, 'r') as data:
+FileNotFoundError: [Errno 2] No such file or directory: '../wrong_path/test_indian_state_census_analyser/IndiaStateCensusData.csv'
+root | ERROR | 2020-11-24 07:13:47,351 |  Exception occurred due to wrong file extension
+NoneType: None
+root | DEBUG | 2020-11-24 07:13:47,356 | Number of entries 37
+root | ERROR | 2020-11-24 07:13:47,359 | Exception occurred due to wrong file path
+Traceback (most recent call last):
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 29, in load_census_data
+    with open(file_name_path, 'r') as data:
+FileNotFoundError: [Errno 2] No such file or directory: '../IndianStateCensusAnalyser/IndiaStateCode.csv'
+root | ERROR | 2020-11-24 07:13:47,363 |  Exception occurred due to wrong file extension
+NoneType: None
+root | ERROR | 2020-11-24 08:04:13,264 |  Exception occurred due to wrong file extension
+NoneType: None
+root | ERROR | 2020-11-24 08:09:10,273 |  Exception occurred due to wrong file extension
+NoneType: None
+root | ERROR | 2020-11-24 08:09:30,275 |  Exception occurred due to wrong file extension
+NoneType: None
+root | ERROR | 2020-11-24 08:10:20,175 |  Exception occurred due to wrong file extension
+NoneType: None
+root | ERROR | 2020-11-24 08:11:28,939 |  Exception occurred due to wrong file extension
+NoneType: None
+root | ERROR | 2020-11-24 08:11:28,953 | Improper header
+NoneType: None
+root | ERROR | 2020-11-24 08:11:45,098 |  Exception occurred due to wrong file extension
+NoneType: None
+root | ERROR | 2020-11-24 08:11:45,178 | Improper header
+NoneType: None
+root | ERROR | 2020-11-24 08:15:39,640 |  Exception occurred due to wrong file extension
+NoneType: None
+root | ERROR | 2020-11-24 08:15:44,702 |  Exception occurred due to wrong file extension
+NoneType: None
+root | DEBUG | 2020-11-24 08:16:07,817 | Number of entries 37
+root | DEBUG | 2020-11-24 08:16:41,257 | Number of entries 29
+root | ERROR | 2020-11-24 08:16:41,368 |  Exception occurred due to wrong file extension
+NoneType: None
+root | ERROR | 2020-11-24 08:16:41,375 | Improper header
+NoneType: None
+root | ERROR | 2020-11-24 08:16:41,380 | Improper header
+NoneType: None
+root | DEBUG | 2020-11-24 08:16:41,384 | Number of entries 37
+root | ERROR | 2020-11-24 08:16:41,389 |  Exception occurred due to wrong file extension
+NoneType: None
+root | ERROR | 2020-11-24 08:16:41,395 | Improper header
+NoneType: None
+root | ERROR | 2020-11-24 08:16:41,401 | Improper header
+NoneType: None
+root | DEBUG | 2020-11-24 08:17:42,258 | Number of entries 29
+root | ERROR | 2020-11-24 08:17:42,262 |  Exception occurred due to wrong file extension
+NoneType: None
+root | ERROR | 2020-11-24 08:17:42,268 | Improper header
+NoneType: None
+root | ERROR | 2020-11-24 08:17:42,275 | Improper header
+NoneType: None
+root | DEBUG | 2020-11-24 08:17:42,279 | Number of entries 37
+root | ERROR | 2020-11-24 08:17:42,284 |  Exception occurred due to wrong file extension
+NoneType: None
+root | ERROR | 2020-11-24 08:17:42,291 | Improper header
+NoneType: None
+root | ERROR | 2020-11-24 08:17:42,297 | Improper header
+NoneType: None
+root | ERROR | 2020-11-24 08:17:48,219 |  Exception occurred due to wrong file extension
+NoneType: None
+root | ERROR | 2020-11-24 08:17:48,226 | Improper header
+NoneType: None
+root | ERROR | 2020-11-24 08:17:48,232 | Improper header
+NoneType: None
+root | DEBUG | 2020-11-24 08:20:59,962 | Number of entries 29
+root | ERROR | 2020-11-24 08:21:00,250 |  Exception occurred due to wrong file extension
+NoneType: None
+root | ERROR | 2020-11-24 08:21:00,274 | Improper header
+NoneType: None
+root | ERROR | 2020-11-24 08:21:00,289 | Improper header
+NoneType: None
+root | DEBUG | 2020-11-24 08:21:00,308 | Number of entries 37
+root | ERROR | 2020-11-24 08:21:00,343 |  Exception occurred due to wrong file extension
+NoneType: None
+root | ERROR | 2020-11-24 08:21:00,363 | Improper header
+NoneType: None
+root | ERROR | 2020-11-24 08:21:00,386 | Improper header
+NoneType: None
+root | DEBUG | 2020-11-24 08:21:56,305 | Number of entries 29
+root | ERROR | 2020-11-24 08:21:56,461 |  Exception occurred due to wrong file extension
+NoneType: None
+root | ERROR | 2020-11-24 08:21:56,475 | Improper header
+NoneType: None
+root | ERROR | 2020-11-24 08:21:56,494 | Improper header
+NoneType: None
+root | DEBUG | 2020-11-24 08:21:56,523 | Number of entries 37
+root | ERROR | 2020-11-24 08:21:56,547 |  Exception occurred due to wrong file extension
+NoneType: None
+root | ERROR | 2020-11-24 08:21:56,555 | Improper header
+NoneType: None
+root | ERROR | 2020-11-24 08:21:56,561 | Improper header
+NoneType: None
+root | DEBUG | 2020-11-24 08:22:41,364 | Number of entries 29
+root | ERROR | 2020-11-24 08:22:41,367 | Exception occurred due to wrong file path
+Traceback (most recent call last):
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 50, in load_census_data
+    self.validate_csv_file(file_name_path)
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 16, in validate_csv_file
+    self.validate_header(csv_file_path)
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 38, in validate_header
+    with open(csv_file_path, newline= "") as csv_data:
+FileNotFoundError: [Errno 2] No such file or directory: '../wrong_path/test_indian_state_census_analyser/IndiaStateCensusData.csv'
+root | ERROR | 2020-11-24 08:22:41,372 |  Exception occurred due to wrong file extension
+NoneType: None
+root | ERROR | 2020-11-24 08:22:41,378 | Improper header
+NoneType: None
+root | ERROR | 2020-11-24 08:22:41,383 | Improper header
+NoneType: None
+root | DEBUG | 2020-11-24 08:22:41,393 | Number of entries 37
+root | ERROR | 2020-11-24 08:22:41,398 | Exception occurred due to wrong file path
+Traceback (most recent call last):
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 50, in load_census_data
+    self.validate_csv_file(file_name_path)
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 16, in validate_csv_file
+    self.validate_header(csv_file_path)
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 38, in validate_header
+    with open(csv_file_path, newline= "") as csv_data:
+FileNotFoundError: [Errno 2] No such file or directory: '../IndianStateCensusAnalyser/IndiaStateCode.csv'
+root | ERROR | 2020-11-24 08:22:41,405 |  Exception occurred due to wrong file extension
+NoneType: None
+root | ERROR | 2020-11-24 08:22:41,411 | Improper header
+NoneType: None
+root | ERROR | 2020-11-24 08:22:41,417 | Improper header
+NoneType: None
+root | DEBUG | 2020-11-24 09:57:12,574 | Number of entries 29
+root | ERROR | 2020-11-24 09:57:12,579 | Exception occurred due to wrong file path
+Traceback (most recent call last):
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 49, in load_census_data
+    self.validate_csv_file(file_name_path)
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 16, in validate_csv_file
+    self.validate_header(csv_file_path)
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 38, in validate_header
+    with open(csv_file_path, newline= "") as csv_data:
+FileNotFoundError: [Errno 2] No such file or directory: '../wrong_path/test_indian_state_census_analyser/IndiaStateCensusData.csv'
+root | ERROR | 2020-11-24 09:57:12,583 |  Exception occurred due to wrong file extension
+NoneType: None
+root | ERROR | 2020-11-24 09:57:12,589 | Improper header
+NoneType: None
+root | ERROR | 2020-11-24 09:57:12,593 | Improper header
+NoneType: None
+root | DEBUG | 2020-11-24 09:57:12,604 | Number of entries 37
+root | ERROR | 2020-11-24 09:57:12,607 | Exception occurred due to wrong file path
+Traceback (most recent call last):
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 49, in load_census_data
+    self.validate_csv_file(file_name_path)
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 16, in validate_csv_file
+    self.validate_header(csv_file_path)
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 38, in validate_header
+    with open(csv_file_path, newline= "") as csv_data:
+FileNotFoundError: [Errno 2] No such file or directory: '../IndianStateCensusAnalyser/IndiaStateCode.csv'
+root | ERROR | 2020-11-24 09:57:12,610 |  Exception occurred due to wrong file extension
+NoneType: None
+root | ERROR | 2020-11-24 09:57:12,617 | Improper header
+NoneType: None
+root | ERROR | 2020-11-24 09:57:12,624 | Improper header
+NoneType: None
+root | DEBUG | 2020-11-24 09:58:40,592 | Number of entries 29
+root | ERROR | 2020-11-24 09:58:40,596 | Exception occurred due to wrong file path
+Traceback (most recent call last):
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 49, in load_census_data
+    self.validate_csv_file(file_name_path)
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 16, in validate_csv_file
+    self.validate_header(csv_file_path)
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 38, in validate_header
+    with open(csv_file_path, newline= "") as csv_data:
+FileNotFoundError: [Errno 2] No such file or directory: '../wrong_path/test_indian_state_census_analyser/IndiaStateCensusData.csv'
+root | ERROR | 2020-11-24 09:58:40,601 |  Exception occurred due to wrong file extension
+NoneType: None
+root | ERROR | 2020-11-24 09:58:40,606 | Improper header
+NoneType: None
+root | ERROR | 2020-11-24 09:58:40,613 | Improper header
+NoneType: None
+root | DEBUG | 2020-11-24 09:58:40,621 | Number of entries 37
+root | ERROR | 2020-11-24 09:58:40,625 | Exception occurred due to wrong file path
+Traceback (most recent call last):
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 49, in load_census_data
+    self.validate_csv_file(file_name_path)
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 16, in validate_csv_file
+    self.validate_header(csv_file_path)
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 38, in validate_header
+    with open(csv_file_path, newline= "") as csv_data:
+FileNotFoundError: [Errno 2] No such file or directory: '../IndianStateCensusAnalyser/IndiaStateCode.csv'
+root | ERROR | 2020-11-24 09:58:40,629 |  Exception occurred due to wrong file extension
+NoneType: None
+root | ERROR | 2020-11-24 09:58:40,635 | Improper header
+NoneType: None
+root | ERROR | 2020-11-24 09:58:40,641 | Improper header
+NoneType: None
+root | ERROR | 2020-11-24 10:07:08,924 | Please choose a correct path
+Traceback (most recent call last):
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 49, in load_census_data
+    self.validate_csv_file(file_name_path)
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 16, in validate_csv_file
+    self.validate_header(csv_file_path)
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 38, in validate_header
+    with open(csv_file_path, newline= "") as csv_data:
+FileNotFoundError: [Errno 2] No such file or directory: '../wrong_path/test_indian_state_census_analyser/IndiaStateCensusData.csv'
+root | ERROR | 2020-11-24 10:07:08,929 |  Exception occurred due to wrong file extension
+NoneType: None
+root | ERROR | 2020-11-24 10:07:08,936 | Improper header
+NoneType: None
+root | ERROR | 2020-11-24 10:07:08,942 | Improper header
+NoneType: None
+root | ERROR | 2020-11-24 10:07:08,969 | Please choose a correct path
+Traceback (most recent call last):
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 49, in load_census_data
+    self.validate_csv_file(file_name_path)
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 16, in validate_csv_file
+    self.validate_header(csv_file_path)
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 38, in validate_header
+    with open(csv_file_path, newline= "") as csv_data:
+FileNotFoundError: [Errno 2] No such file or directory: '../IndianStateCensusAnalyser/IndiaStateCode.csv'
+root | ERROR | 2020-11-24 10:07:08,975 |  Exception occurred due to wrong file extension
+NoneType: None
+root | ERROR | 2020-11-24 10:07:08,981 | Improper header
+NoneType: None
+root | ERROR | 2020-11-24 10:07:08,987 | Improper header
+NoneType: None
+root | ERROR | 2020-11-24 10:07:40,559 | Please choose a correct path
+Traceback (most recent call last):
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 49, in load_census_data
+    self.validate_csv_file(file_name_path)
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 16, in validate_csv_file
+    self.validate_header(csv_file_path)
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 38, in validate_header
+    with open(csv_file_path, newline= "") as csv_data:
+FileNotFoundError: [Errno 2] No such file or directory: '../wrong_path/test_indian_state_census_analyser/IndiaStateCensusData.csv'
+root | ERROR | 2020-11-24 10:07:40,559 |  Exception occurred due to wrong file extension
+NoneType: None
+root | ERROR | 2020-11-24 10:07:40,575 | Improper header
+NoneType: None
+root | ERROR | 2020-11-24 10:07:40,575 | Improper header
+NoneType: None
+root | ERROR | 2020-11-24 10:07:40,590 | Please choose a correct path
+Traceback (most recent call last):
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 49, in load_census_data
+    self.validate_csv_file(file_name_path)
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 16, in validate_csv_file
+    self.validate_header(csv_file_path)
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 38, in validate_header
+    with open(csv_file_path, newline= "") as csv_data:
+FileNotFoundError: [Errno 2] No such file or directory: '../IndianStateCensusAnalyser/IndiaStateCode.csv'
+root | ERROR | 2020-11-24 10:07:40,606 |  Exception occurred due to wrong file extension
+NoneType: None
+root | ERROR | 2020-11-24 10:07:40,606 | Improper header
+NoneType: None
+root | ERROR | 2020-11-24 10:07:40,606 | Improper header
+NoneType: None
+root | DEBUG | 2020-11-24 10:29:27,399 | Number of entries are 29
+root | DEBUG | 2020-11-24 11:22:24,371 | Number of entries are 29
+root | DEBUG | 2020-11-24 11:22:30,077 | Number of entries are 29
+root | ERROR | 2020-11-24 11:22:30,081 | Please choose a correct path
+Traceback (most recent call last):
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 49, in load_census_data
+    self.validate_csv_file(file_name_path)
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 16, in validate_csv_file
+    self.validate_header(csv_file_path)
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 38, in validate_header
+    with open(csv_file_path, newline="") as csv_data:
+FileNotFoundError: [Errno 2] No such file or directory: '../wrong_path/test_indian_state_census_analyser/IndiaStateCensusData.csv'
+root | ERROR | 2020-11-24 11:22:30,086 |  Exception occurred due to wrong file extension
+NoneType: None
+root | ERROR | 2020-11-24 11:22:30,091 | Improper header
+NoneType: None
+root | ERROR | 2020-11-24 11:22:30,098 | Improper header
+NoneType: None
+root | DEBUG | 2020-11-24 11:22:30,108 | Number of entries are 37
+root | ERROR | 2020-11-24 11:22:30,112 | Please choose a correct path
+Traceback (most recent call last):
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 49, in load_census_data
+    self.validate_csv_file(file_name_path)
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 16, in validate_csv_file
+    self.validate_header(csv_file_path)
+  File "C:\Users\Ibrahim Khaleel\PycharmProjects\IndianStateCensusAnalyser\main_census_analyser\census_analyser.py", line 38, in validate_header
+    with open(csv_file_path, newline="") as csv_data:
+FileNotFoundError: [Errno 2] No such file or directory: '../IndianStateCensusAnalyser/IndiaStateCode.csv'
+root | ERROR | 2020-11-24 11:22:30,116 |  Exception occurred due to wrong file extension
+NoneType: None
+root | ERROR | 2020-11-24 11:22:30,122 | Improper header
+NoneType: None
+root | ERROR | 2020-11-24 11:22:30,134 | Improper header
+NoneType: None
+root | DEBUG | 2020-11-24 11:35:03,815 | Number of entries are 29
+root | DEBUG | 2020-11-24 11:35:03,816 | first state is Andhra Pradesh and last state is West Bengal
+root | DEBUG | 2020-11-24 11:35:41,457 | Number of entries are 29
+root | DEBUG | 2020-11-24 11:35:41,458 | first state is Andhra Pradesh and last state is West Bengal
+root | DEBUG | 2020-11-24 11:36:07,540 | Number of entries are 29
+root | DEBUG | 2020-11-24 11:36:07,541 | first state is Andhra Pradesh and last state is West Bengal
+root | DEBUG | 2020-11-24 11:36:19,884 | Number of entries are 29
+root | DEBUG | 2020-11-24 11:36:19,885 | first state is Andhra Pradesh and last state is West Bengal
+root | DEBUG | 2020-11-24 11:37:34,280 | Number of entries are 29
+root | DEBUG | 2020-11-24 11:37:34,280 | first state is Andhra Pradesh and last state is West Bengal
+root | DEBUG | 2020-11-24 11:38:14,094 | Number of entries are 29
+root | DEBUG | 2020-11-24 11:38:14,095 | first state is Andhra Pradesh and last state is West Bengal
+root | DEBUG | 2020-11-24 11:38:46,873 | Number of entries are 29
+root | DEBUG | 2020-11-24 11:38:46,873 | first state is Andhra Pradesh and last state is West Bengal
+root | DEBUG | 2020-11-24 11:50:28,642 | Number of entries are 37
+root | DEBUG | 2020-11-24 11:51:26,908 | Number of entries are 37
+root | DEBUG | 2020-11-24 11:52:16,598 | Number of entries are 37
+root | DEBUG | 2020-11-24 11:52:16,598 | first state code is AD and last state code is WB
+root | DEBUG | 2020-11-24 11:52:28,663 | Number of entries are 37
+root | DEBUG | 2020-11-24 11:52:28,663 | first state code is AD and last state code is WB
+root | DEBUG | 2020-11-24 11:52:49,586 | Number of entries are 37
+root | DEBUG | 2020-11-24 11:52:49,586 | first state code is AD and last state code is WB
+root | DEBUG | 2020-11-24 11:52:58,263 | Number of entries are 37
+root | DEBUG | 2020-11-24 11:52:58,263 | first state code is AD and last state code is WB
+root | DEBUG | 2020-11-24 11:53:02,318 | Number of entries are 37
+root | DEBUG | 2020-11-24 11:53:02,318 | first state code is AD and last state code is WB
+root | DEBUG | 2020-11-24 12:00:10,688 | Number of entries are 37
+root | DEBUG | 2020-11-24 12:00:10,689 | first state code is AD and last state code is WB
+root | DEBUG | 2020-11-24 12:00:14,818 | Number of entries are 37
+root | DEBUG | 2020-11-24 12:00:14,819 | first state code is AD and last state code is WB
+root | DEBUG | 2020-11-24 12:43:14,964 | Number of entries are 37
+root | DEBUG | 2020-11-24 12:43:14,964 | first state code is AD and last state code is WB
+root | DEBUG | 2020-11-24 12:43:31,245 | Number of entries are 29
+root | DEBUG | 2020-11-24 12:43:31,249 | first state is Andhra Pradesh and last state is West Bengal
+root | DEBUG | 2020-11-24 12:43:56,426 | Number of entries are 29
+root | DEBUG | 2020-11-24 12:45:39,806 | first state is Andhra Pradesh and last state is West Bengal
+root | DEBUG | 2020-11-24 12:49:26,226 | Number of entries are 29
+root | DEBUG | 2020-11-24 12:49:26,226 | first state is Andhra Pradesh and last state is West Bengal
+root | DEBUG | 2020-11-24 12:50:54,520 | Number of entries are 37
+root | DEBUG | 2020-11-24 12:50:54,520 | first state code is AD and last state code is WB
